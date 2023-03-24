@@ -79,7 +79,7 @@ It will appear as *datast9010.zip* on your computer. Just unzip it to any local 
 
 Once you unzip it, you will see the following folder structure in it
 
-```*<your_local_folder>/dataset_9010/malimg_dataset/{some_child_subfolders}*```
+```<your_local_folder>/dataset_9010/malimg_dataset/{some_child_subfolders}```
 
 You will have to move malimg_dataset/{some_child_subfolders} to the subfolder where you put the source code of Jupyter notebooks.
 
