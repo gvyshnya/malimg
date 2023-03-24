@@ -1,3 +1,7 @@
+# Preface
+
+This repo summarizes the results of the joint effort of the researcher group (George Vyshnya, Denys Frolov and Co). The main purpose of such an effort was to demonstrate that the novel DL network architectures with attention can improve the results of the malware detection by now-classical Malware Visualization and Automatic Classification method.
+
 # Introduction
 
 Since the introduction of AlexNet in 2012, deep convolutional neural networks (CNN) have become the dominating approach for image classification. Various new architectures have been proposed since then, including VGG, NiN, Inception, ResNet, DenseNet, and NASNet. At the same time, we have seen a steady trend of model accuracy improvement. For example, the top-1 validation accuracy on ImageNet has been raised from 62.5% (AlexNet) to 82.7% (NASNet-A).
