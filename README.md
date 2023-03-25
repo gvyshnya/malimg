@@ -10,7 +10,12 @@ Pattern recognition and image classification has surprisingly become one of the 
 
 # DL With Attention
 
-TBD
+Attention is one of the most powerful recent inventions in DL. Originally appeared in NLP domain, it proved its power in other DL use cases (image classification/pattern recognition inclusive).
+
+You can start your own review of Attention concepts in DL by browsing two excellent blog posts below
+
+- https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/
+- https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f
 
 # Dataset Description
 
